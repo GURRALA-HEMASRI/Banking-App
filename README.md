@@ -5,10 +5,15 @@ The application allows users to manage banking operations such as account manage
 
 ---
 # 📸 Screenshots
+## Login
 ![Login](https://github.com/GURRALA-HEMASRI/Banking-App/blob/972759b931c9d04ff1bf350c4df1b20e56653766/login.png)
+## Deposit
 ![Deposit](https://github.com/GURRALA-HEMASRI/Banking-App/blob/972759b931c9d04ff1bf350c4df1b20e56653766/deposit.png)
+## WithDraw
 ![WithDraw](https://github.com/GURRALA-HEMASRI/Banking-App/blob/972759b931c9d04ff1bf350c4df1b20e56653766/withdraw.png)
+## Balance
 ![Balance](https://github.com/GURRALA-HEMASRI/Banking-App/blob/972759b931c9d04ff1bf350c4df1b20e56653766/Balance.png)
+## History
 ![History](https://github.com/GURRALA-HEMASRI/Banking-App/blob/972759b931c9d04ff1bf350c4df1b20e56653766/history.png)
 
 ---
