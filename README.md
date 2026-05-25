@@ -4,7 +4,14 @@ A modern full-stack Banking Management System built using React.js, Spring Boot,
 The application allows users to manage banking operations such as account management, transactions, and customer details through a responsive and secure web interface.
 
 ---
+# 📸 Screenshots
+![Login](https://github.com/GURRALA-HEMASRI/Banking-App/blob/972759b931c9d04ff1bf350c4df1b20e56653766/login.png)
+![Deposit](https://github.com/GURRALA-HEMASRI/Banking-App/blob/972759b931c9d04ff1bf350c4df1b20e56653766/deposit.png)
+![WithDraw](https://github.com/GURRALA-HEMASRI/Banking-App/blob/972759b931c9d04ff1bf350c4df1b20e56653766/withdraw.png)
+![Balance](https://github.com/GURRALA-HEMASRI/Banking-App/blob/972759b931c9d04ff1bf350c4df1b20e56653766/Balance.png)
+![History](https://github.com/GURRALA-HEMASRI/Banking-App/blob/972759b931c9d04ff1bf350c4df1b20e56653766/history.png)
 
+---
 # 📌 Project Overview
 
 This project simulates a real-world banking system where users can:
@@ -189,33 +196,6 @@ Through this project, I gained practical experience in:
 - Admin Dashboard
 
 ---
-
-# 📸 Screenshots
-
-Add screenshots here for better project presentation.
-
-Example:
-
-```md
-![Dashboard](images/dashboard.png)
-```
-
----
-
-# 🤝 Contributing
-
-Contributions and suggestions are welcome.
-
-Feel free to fork the repository and create pull requests.
-
----
-
-# 📄 License
-
-This project is developed for educational and learning purposes.
-
----
-
 # 👨‍💻 Author
 
 Developed by Hema Sri
