@@ -1,4 +1,4 @@
-# 🏦 Banking Management System
+# 🏦 Banking App
 
 A modern full-stack Banking Management System built using React.js, Spring Boot, and MySQL.  
 The application allows users to manage banking operations such as account management, transactions, and customer details through a responsive and secure web interface.
